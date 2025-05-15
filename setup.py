@@ -3,11 +3,11 @@ from setuptools import setup, find_packages
 setup(
     name="unitmaster",
     version="0.1.0",
-    author="Rachit Sharma",
-    author_email="rachits999003@gmail.com",
+    author="Rachit Sharma, Jay Ghogale",
+    author_email="rachits999003@gmail.com, jayghogale@gmail.com",
     description="A versatile unit conversion tool",
     # long_description=long_description,
-    long_description_content_type="text/markdown",
+    # long_description_content_type="text/markdown",
     url="https://github.com/rachits999003/unitmasterbyrachit",
     packages=find_packages(),
     classifiers=[
