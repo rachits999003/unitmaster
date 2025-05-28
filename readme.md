@@ -1,3 +1,5 @@
+
+[![PyPI version](https://badge.fury.io/py/pytedit.svg)](https://pypi.org/project/unitmaster/)
 # UnitMaster
 
 A versatile and powerful unit conversion tool for Python.
