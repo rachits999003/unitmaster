@@ -4,7 +4,7 @@ A versatile and powerful unit conversion tool for Python.
 
 ## Features
 
-- Convert between various units in multiple categories:
+- Convert between various different units in multiple categories:
   - Length (mm, cm, m, km, in, ft, yd, mi)
   - Weight (mg, g, kg, ton, oz, lb)
   - Volume (ml, l, gal, qt, pt, fl_oz)
